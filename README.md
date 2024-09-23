@@ -21,7 +21,7 @@ Personal Site: [https://jelinr.github.io/](https://jelinr.github.io/)
 
  These refer to projects that I have improved upon pre-existing models or methods using innovative approaches, often producing surprisingly good results. 
 
--  [Lightweight CNN for Speech Keyword Detection](https://github.com/JelinR/Speech_KWS_Lightweight): Developed a lightweight CNN model (32k parameters) to classify short speech keywords with 89% categorical accuracy on the Google Speech Commands Dataset. The model has a 37 ms average inference time and uses 90KB memory, competing with SoTA models like TDNN (250k parameters, 94% accuracy).
+-  [Lightweight CNN for Speech Keyword Detection](https://github.com/JelinR/Speech_KWS_Lightweight): Developed a lightweight CNN model (31k parameters) to classify speech keywords with 90.27% categorical accuracy on the Google V12 Speech Commands Dataset. The model has a 39 ms average inference time and uses 90 KB memory, competing with SoTA models like TDNN (250k parameters, 94% accuracy). 
 
 - [YOLOv8n Object Detection using Blob Enhancers](https://github.com/JelinR/ultralytics_forked): Improved YOLOv8n for small human (far away or occluded persons) detection by 1.1% by adding a pre-processing layer that enhances regions of interest (through blob detection) before fine-tuning the model. The preprocessing speed merely increased by 2 ms (from 7 ms to 9 ms).
 
