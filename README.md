@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Jelin Raphael Akkara, a Master's student in Physics of Data at the University of Padua. My interests span **Natural Language Processing, Computer Vision, and their intersection in fields like Embodied AI**. Below is a selection of projects, both major and minor, that have influenced my growth and shaped my interests. Feel free to reach out using the provided contact information.
 
+Personal Site: [https://jelinr.github.io/](https://jelinr.github.io/)
+
 ## Major Projects
 
  These refer to projects that I have improved upon pre-existing models or methods using innovative approaches, often producing surprisingly good results. 
