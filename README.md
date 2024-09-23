@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Jelin Raphael Akkara, a Master's student in Physics of Data at the University of Padua. My interests span Natural Language Processing, Computer Vision, and their intersection in fields like Embodied AI. Below is a selection of projects, both major and minor, that have influenced my growth and shaped my interests. Feel free to reach out using the provided contact information.
+Hi, I'm Jelin Raphael Akkara, a Master's student in Physics of Data at the University of Padua. My interests span **Natural Language Processing, Computer Vision, and their intersection in fields like Embodied AI**. Below is a selection of projects, both major and minor, that have influenced my growth and shaped my interests. Feel free to reach out using the provided contact information.
 
 ## Major Projects
 
